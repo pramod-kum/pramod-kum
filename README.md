@@ -1,4 +1,4 @@
-<h2>𝓗𝓲 !👋, 𝓘'𝓶 𝓟𝓻𝓪𝓶𝓸𝓭 𝓚𝓾𝓶𝓪𝓻. </h2>
+<h2 align="center">👋𝐈'𝐦 𝐏𝐫𝐚𝐦𝐨𝐝 𝐊𝐮𝐦𝐚𝐫.</h2>
 <img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="230">
 <p><em>Backend Developer<a href=>
 </a><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
