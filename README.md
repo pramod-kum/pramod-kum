@@ -19,27 +19,22 @@
 <h2> 𝒟𝐸𝒮𝒞𝑅𝐼𝒫𝒯𝐼𝒪𝒩</h2>
 <h3> Software developer proficient in Java, Spring Boot, and SQL. Skilled in designing and implementing complex systems, debugging, and problem-solving. Passionate about developing clean and efficient code and constantly expanding my knowledge of new technologies.Done number of projects on Java and Spring Boot.Have hands on experience on tools such as IntelliJ, VSCode, AWS, Postman, Termius, Swagger, etc.</h3>
 <h2>𝒯𝑜𝑜𝓁𝓈 𝒰𝓈𝑒𝒹</h2>
-<p> 
-  <img alt="IntelliJ" height="80" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/IntelliJ_IDEA_Icon.svg/1200px-IntelliJ_IDEA_Icon.svg.png">
- <img alt="Postman" height="80" src="https://yt3.googleusercontent.com/X-rhKMndFm9hT9wIaJns1StBfGbFdLTkAROwm4UZ3n9ucrBky5CFIeeZhSszFXBgQjItzCD0SA=s900-c-k-c0x00ffffff-no-rj">
-  <img alt="MySQL" height="80" src="https://static.techspot.com/images2/downloads/topdownload/2020/01/2020-01-28-ts3_thumbs-c3e.png">
-  <img alt="AWS" height="80"width="130" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTzHh7PNuA9yT-5EmSjEgAgWIS75qns2X5RgQ&usqp=CAU">
-  <img alt="Swagger" height="80" src="https://static1.smartbear.co/swagger/media/blog/swagger-editor-blog_575x300.png?ext=.png">
-<img alt="Termius" height="80" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTXnsBo5j-tjCktTgM00WclTU4z0o1dNU2V1Pho-vQHl2WnL3iKZuOL40bmM2ZaM4MmE44&usqp=CAU">
-  <img alt="VSCode" height="80" src="https://blog.cloudanalogy.com/wp-content/uploads/2020/03/vsc-01.jpg">
-  <img alt="Git Logo" height="80" width="120" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRrNey0NJUuet7oxT37OiO795Ldq9G_wpGEaw&usqp=CAU">
-
-- 🔭 I’m currently working on -->(https://github.com/pramod-kum/LLD-CODE)
-
-- 🌱 I’m currently learning --> **Full Stack Web Development**
-
-- 👨‍💻 All of my projects are available at --> (https://github.com/pramod-kum)
-
-- 📝 I often write articles on --> (https://www.linkedin.com/in/pramod-kr91/)
-
-- 💬 Ask me about --> **Sprig Boot, Java, DSA, OOP, MySQL**
-
-- 📫 How to reach me --> **pramodkumar912894@gmail.com**
+  ![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
+  ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
+  ![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?style=flat-square&logo=visual-studio-code)
+  ![IntelliJ](https://img.shields.io/badge/-IntelliJ%20IDEA-black?style=flat-square&logo=jetbrains)
+  ![Postman](https://img.shields.io/badge/Postman-black?style=flat-square&logo=postman) 
+  ![Linux](https://img.shields.io/badge/Linux-black?style=flat-square&logo=linux)
+  ![Apache2](https://img.shields.io/badge/Apache2-black?style=flat-square&logo=apache)
+  ![MySQL](https://img.shields.io/badge/-MySQL-black?style=flat-square&logo=mysql)
+  ![Java](https://img.shields.io/badge/Java-orange?style=flat-square&logo=java)
+  ![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=Python)
+  ![Google Chrome](https://img.shields.io/badge/Chrome-black?style=flat-square&logo=google-chrome)
+  <div align="center">
+<img height="300" alt="My Tech Stacks" src="images/IMGtechstacks.png" />
+</div>
+<br>
+<br>
 
 - 📄 Resume --><a href="https://drive.google.com/file/d/16oGQ1KF10bAQVzqSSb9Ce_LOFmwOju00/view?usp=drivesdk"> <img height="100" src="https://cdn.iconscout.com/icon/free/png-256/resume-1956282-1650445.png"></a>
 
