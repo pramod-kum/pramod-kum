@@ -33,7 +33,7 @@
   ![Google Chrome](https://img.shields.io/badge/Chrome-black?style=flat-square&logo=google-chrome)
   
   <div align="center">
-<img height="200" alt="My Tech Stacks" src="images/IMGtechstacks.png" />
+<img height="175" alt="My Tech Stacks" src="images/IMGtechstacks.png" />
 </div>
 
 
