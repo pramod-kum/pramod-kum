@@ -1,3 +1,5 @@
+![logo](images/GitHub_banner.png)
+
 <h2 align="center">👋𝐈'𝐦 𝐏𝐫𝐚𝐦𝐨𝐝 𝐊𝐮𝐦𝐚𝐫.</h2>
 <img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="230">
 <p><em>Backend Developer<a href=>
