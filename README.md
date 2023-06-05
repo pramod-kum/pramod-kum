@@ -35,10 +35,8 @@
   <div align="center">
 <img height="200" alt="My Tech Stacks" src="images/IMGtechstacks.png" />
 </div>
-<br>
-<br>
 
-- 📄 Resume --><a href="https://drive.google.com/file/d/16oGQ1KF10bAQVzqSSb9Ce_LOFmwOju00/view?usp=drivesdk"> <img height="100" src="https://cdn.iconscout.com/icon/free/png-256/resume-1956282-1650445.png"></a>
+<h2>𝒯𝑜𝑜𝓁𝓈 𝒰𝓈𝑒𝒹</h2>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -46,14 +44,14 @@
 <a href="https://www.hackerrank.com/pramodkumar91281?hr_r=1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="https://www.hackerrank.com/sahani199890" height="30" width="40" /></a>
 <a href="https://leetcode.com/123pramod/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="https://leetcode.com/abhishek_sahani/" height="30" width="40" /></a>
 <a href="https://auth.geeksforgeeks.org/user/pramodkumcpco/practice" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="https://auth.geeksforgeeks.org/user/1abhisfoyr/" height="30" width="40" /></a>
-</p>
-<p>Github stats</p>
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=sahani199890&show_icons=true&locale=en&layout=compact" alt="sahani199890"/>
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=sahani199890&show_icons=true&locale=en" alt="sahani199890" />
-</p>
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sahani199890&" alt="sahani199890" />
+📄 Resume-><a href="[https://drive.google.com/file/d/16oGQ1KF10bAQVzqSSb9Ce_LOFmwOju00/view?usp=drivesdk](https://drive.google.com/file/d/18otbHhg9-mI_EVM31tS25SINAp6Nz9tX/view?usp=sharing)"> <img height="25" src="https://cdn.iconscout.com/icon/free/png-256/resume-1956282-1650445.png"></a>
+ 
+ <p align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=pramod-kum&show_icons=true&count_private=true&theme=gruvbox"/> 
+<img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=pramod-kum&theme=gruvbox" alt="pramod-kum" /><div align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pramod-kum&layout=compact&count_private=true&theme=gruvbox" />
+</div></p>
+
+<br>
+<br>
 </p>
 
