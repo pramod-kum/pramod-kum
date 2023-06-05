@@ -1,15 +1,24 @@
-<h2 align="right">👉<a href="https://drive.google.com/file/d/16oGQ1KF10bAQVzqSSb9Ce_LOFmwOju00/view?usp=drivesdk"><img width="100"src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTB4UElvOe_MgXaCy-Ot2OAxvihSy_W2TisPg&usqp=CAU"> </a></h2>
-<h1 align="center"><img alt="gif" src="https://cdna.artstation.com/p/assets/images/images/060/460/880/original/pixel-jeff-chill-mario-2023-2.gif?1678633376"></h1>
+<h2><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> नमस्ते (Namaste)🙏🏻, I'm Pramod Kumar ! <img src="https://media.giphy.com/media/12oufCB0MyZ1Go/giphy.gif" width="50"></h2>
+<img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="230">
+<p><em>Backend Developer<a href=>
+</a><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
+</em></p>
 
-<h1 align="center"> <img alt="gif" height="30" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExNzFiNjMzOTBiYzUyOGFmNTVlZDFmMmI0ZDE3NGE5ZjA3YWZiMDYxMSZjdD1n/LtiTOVzhzvGuXaea2m/giphy.gif"> Hello World 👋, I'm Pramod Kumar <img alt="gif" height="30" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExNzFiNjMzOTBiYzUyOGFmNTVlZDFmMmI0ZDE3NGE5ZjA3YWZiMDYxMSZjdD1n/LtiTOVzhzvGuXaea2m/giphy.gif"></h1>
-<h3 align="center"> <img alt="india flag gif" height="30" src="https://media3.giphy.com/media/9Gnbm29r7ftUA/200w.webp?cid=ecf05e473za3p49dhmp93wv3n7teyh3wcpip91uh83ll8x4w&rid=200w.webp&ct=g"> I am an enthusiastic software developer hailing from India.
-<img alt="india flag gif" height="30" src="https://media3.giphy.com/media/9Gnbm29r7ftUA/200w.webp?cid=ecf05e473za3p49dhmp93wv3n7teyh3wcpip91uh83ll8x4w&rid=200w.webp&ct=g">
-</h3>
-
+[![Twitter Follow](https://img.shields.io/twitter/follow/PramodK50220546?label=Follow)](https://twitter.com/intent/follow?screen_name=PramodK50220546)
+[![Linkedin: anmol](https://img.shields.io/badge/-pramod-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/pramod-kum91/)](https://www.linkedin.com/in/anmol098/)
+![GitHub followers](https://img.shields.io/github/followers/pramod-kum?label=Follow&style=social)
+[![website](https://img.shields.io/badge/Website-46a2f1.svg?&style=flat-square&logo=Google-Chrome&logoColor=white&link=https://pramod.me/)](https://pramod.me/)
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=pramod-kr91&label=Profile%20views&color=0e75b6&style=flat" alt="pramod-kr91" /> </p>
-<h2> DESCRIPTION</h2>
+
+
+
+
+
+
+
+<h2> 𝒟𝐸𝒮𝒞𝑅𝐼𝒫𝒯𝐼𝒪𝒩</h2>
 <h3> Software developer proficient in Java, Spring Boot, and SQL. Skilled in designing and implementing complex systems, debugging, and problem-solving. Passionate about developing clean and efficient code and constantly expanding my knowledge of new technologies.Done number of projects on Java and Spring Boot.Have hands on experience on tools such as IntelliJ, VSCode, AWS, Postman, Termius, Swagger, etc.</h3>
-<h2>Tools Used</h2>
+<h2>𝒯𝑜𝑜𝓁𝓈 𝒰𝓈𝑒𝒹</h2>
 <p> 
   <img alt="IntelliJ" height="80" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/IntelliJ_IDEA_Icon.svg/1200px-IntelliJ_IDEA_Icon.svg.png">
  <img alt="Postman" height="80" src="https://yt3.googleusercontent.com/X-rhKMndFm9hT9wIaJns1StBfGbFdLTkAROwm4UZ3n9ucrBky5CFIeeZhSszFXBgQjItzCD0SA=s900-c-k-c0x00ffffff-no-rj">
