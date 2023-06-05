@@ -1,4 +1,4 @@
-<h2><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> नमस्ते (Namaste)🙏🏻, I'm Pramod Kumar ! <img src="https://media.giphy.com/media/12oufCB0MyZ1Go/giphy.gif" width="50"></h2>
+<h2>𝓗𝓲 !👋, 𝓘'𝓶 𝓟𝓻𝓪𝓶𝓸𝓭 𝓚𝓾𝓶𝓪𝓻. </h2>
 <img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="230">
 <p><em>Backend Developer<a href=>
 </a><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
@@ -36,9 +36,9 @@
 <img height="200" alt="My Tech Stacks" src="images/IMGtechstacks.png" />
 </div>
 
-<h2>𝒯𝑜𝑜𝓁𝓈 𝒰𝓈𝑒𝒹</h2>
 
-<h3 align="left">Connect with me:</h3>
+
+<h2 align="left">𝒞𝑜𝓃𝓃𝑒𝒸𝓉 𝓌𝒾𝓉𝒽 𝓂𝑒</h2>
 <p align="left">
 <a href="https://www.linkedin.com/in/pramod-kr91/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/01abhishek-sahani/" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/pramodkumar91281?hr_r=1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="https://www.hackerrank.com/sahani199890" height="30" width="40" /></a>
