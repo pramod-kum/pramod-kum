@@ -19,7 +19,8 @@
 <h2> 𝒟𝐸𝒮𝒞𝑅𝐼𝒫𝒯𝐼𝒪𝒩</h2>
 <h3> Software developer proficient in Java, Spring Boot, and SQL. Skilled in designing and implementing complex systems, debugging, and problem-solving. Passionate about developing clean and efficient code and constantly expanding my knowledge of new technologies.Done number of projects on Java and Spring Boot.Have hands on experience on tools such as IntelliJ, VSCode, AWS, Postman, Termius, Swagger, etc.</h3>
 <h2>𝒯𝑜𝑜𝓁𝓈 𝒰𝓈𝑒𝒹</h2>
-  ![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
+
+ ![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
   ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
   ![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?style=flat-square&logo=visual-studio-code)
   ![IntelliJ](https://img.shields.io/badge/-IntelliJ%20IDEA-black?style=flat-square&logo=jetbrains)
@@ -30,8 +31,9 @@
   ![Java](https://img.shields.io/badge/Java-orange?style=flat-square&logo=java)
   ![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=Python)
   ![Google Chrome](https://img.shields.io/badge/Chrome-black?style=flat-square&logo=google-chrome)
+  
   <div align="center">
-<img height="300" alt="My Tech Stacks" src="images/IMGtechstacks.png" />
+<img height="300" alt="My Tech Stacks" src="C:\Users\pramo\Downloads\IMGtechstacks.png" />
 </div>
 <br>
 <br>
