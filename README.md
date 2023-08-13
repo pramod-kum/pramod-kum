@@ -9,7 +9,7 @@
 [![Twitter Follow](https://img.shields.io/twitter/follow/PramodK50220546?label=Follow)](https://twitter.com/intent/follow?screen_name=PramodK50220546)
 [![Linkedin: anmol](https://img.shields.io/badge/-pramod-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/pramod-kr91/)](https://www.linkedin.com/in/pramod-kr91/)
 ![GitHub followers](https://img.shields.io/github/followers/pramod-kum?label=Follow&style=social)
-[![website](https://pramod-kum.github.io/Portfolio/)](https://pramod.me/)
+[![website](https://pramod-kum.github.io/Portfolio/)](https://pramod-kum.github.io/Portfolio/)
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=pramod-kr91&label=Profile%20views&color=0e75b6&style=flat" alt="pramod-kr91" /> </p>
 
 
