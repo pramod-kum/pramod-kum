@@ -44,9 +44,9 @@
 <p align="left">
 <a href="https://www.linkedin.com/in/pramod-kr91/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/01abhishek-sahani/" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/pramodkumar91281?hr_r=1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="https://www.hackerrank.com/sahani199890" height="30" width="40" /></a>
-<a href="https://leetcode.com/123pramod/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="https://leetcode.com/abhishek_sahani/" height="30" width="40" /></a>
+<a href="https://leetcode.com/pramod-kum/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="https://leetcode.com/pramod-kum/" height="30" width="40" /></a>
 <a href="https://auth.geeksforgeeks.org/user/pramodkumcpco/practice" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="https://auth.geeksforgeeks.org/user/1abhisfoyr/" height="30" width="40" /></a>
-📄 Resume-><a href="https://drive.google.com/file/d/18otbHhg9-mI_EVM31tS25SINAp6Nz9tX/view?usp=sharing"> <img height="25" src="https://cdn.iconscout.com/icon/free/png-256/resume-1956282-1650445.png"></a>
+📄 Resume-><a href="https://drive.google.com/file/d/1Af6J8r5Y2Dj-3oaUO20sXaUhu3y1762E/view"> <img height="25" src="https://cdn.iconscout.com/icon/free/png-256/resume-1956282-1650445.png"></a>
  
  <p align="center">
 <img src="https://github-readme-stats.vercel.app/api?username=pramod-kum&show_icons=true&count_private=true&theme=gruvbox"/> 
