@@ -5,7 +5,7 @@
   <a href="https://github.com/pramod-kum"><img src="https://readme-typing-svg.herokuapp.com?size=24&center=true&vCenter=true&width=500&lines=Passionate+Web+Developer;AI+and+ML+Enthusiast;Exploring+Data+Science" alt="Typing SVG" /></a>
 </p>
 <img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="230">
-<p><em>Backend Developer<a href=>
+<p><em>Full-Stack Developer<a href=>
 </a><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
 </em></p>
 
